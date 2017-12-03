@@ -1,0 +1,27 @@
+{
+	"cabs": [{
+			"id": 1,
+			"vehicleNumber": "KA123ABC",
+			"driverName": "John Snow",
+			"contact": "123456"
+		},
+		{
+			"id": 2,
+			"vehicleNumber": "KA123EFG",
+			"driverName": "Tyrion Lannister",
+			"contact": "0000001"
+		},
+		{
+			"id": 3,
+			"vehicleNumber": "KA123KLM",
+			"driverName": "Mother of dragons",
+			"contact": "9999"
+		},
+		{
+			"id": 4,
+			"vehicleNumber": "KA007:)",
+			"driverName": "Bond",
+			"contact": "00700"
+		}
+	]
+}
